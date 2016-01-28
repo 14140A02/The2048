@@ -33,6 +33,6 @@ public class AnimationCell extends Cell {
 
     public boolean isActive() {
         return (timeElapsed >= delayTime);
-    }//
+    }
 
 }
