@@ -2,4 +2,4 @@
 就玩2048!
 
 
-![Alt text](./the.gif)
+![Alt text](./the2048.gif)
