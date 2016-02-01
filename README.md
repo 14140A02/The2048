@@ -3,3 +3,5 @@
 
 
 ![Alt text](./the2048.gif)
+
+![Alt text](./the2048.png)
